@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1202px" height="583px" viewBox="0 0 1202 583" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>header-background</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="49.5478511%" cy="41.6529959%" fx="49.5478511%" fy="41.6529959%" r="100%" gradientTransform="translate(0.495479,0.416530),scale(0.484167,1.000000),rotate(90.000000),translate(-0.495479,-0.416530)" id="radialGradient-1">
+            <stop stop-color="#5054F0" offset="0%"></stop>
+            <stop stop-color="#490EA1" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="0%" y1="49.7500002%" x2="81.1940104%" y2="49.7500002%" id="linearGradient-2">
+            <stop stop-color="#64A9F7" offset="0%"></stop>
+            <stop stop-color="#69A0F8" offset="78.2757143%"></stop>
+            <stop stop-color="#855AFD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0.25781251%" y1="49.7500002%" x2="80.8584948%" y2="49.7500002%" id="linearGradient-3">
+            <stop stop-color="#9FD6FF" offset="0%"></stop>
+            <stop stop-color="#A5C9FF" offset="75.3157476%"></stop>
+            <stop stop-color="#C476FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Header-(Page1)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="header-background" transform="translate(1.000000, 0.000000)">
+            <path d="M0,0 L1200,0 L1200,581 C859.768229,581 611.03125,581 453.789062,581 C296.546875,581 145.283854,581 0,581 L0,0 Z" id="BACKGROUND" fill="url(#radialGradient-1)"></path>
+            <path d="" id="Path-4" stroke="#979797"></path>
+            <path d="M0,439 C225.140625,476.257058 412.628906,496.476097 562.464844,499.657118 C787.21875,504.42865 878.482591,527.324348 1008.97656,522.932024 C1095.97254,520.003808 1159.64702,506.835163 1200,483.426089 L1200,581 L0,581 L0,439 Z" id="Path-2" fill="url(#linearGradient-2)"></path>
+            <path d="M0,581 L1200,581 L1200,510.413906 C1108.94156,533.942604 1030.57875,545.706953 964.911561,545.706953 C866.410775,545.706953 671.597141,517.241717 484.924844,510.413906 C360.476646,505.862031 198.835032,505.862031 0,510.413906 L0,581 Z" id="LAYER_2" fill="url(#linearGradient-3)"></path>
+            <path d="M0,576.807454 C185.488729,546.935818 335.825264,532 451.009604,532 C623.786115,532 840.005909,568.307497 936.718649,568.307497 C1001.19381,568.307497 1088.95426,556.204998 1200,532 L1200,582 L0,582 L0,576.807454 Z" id="LAYER_1" stroke="#FFFFFF" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
