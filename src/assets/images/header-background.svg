@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1202px" height="583px" viewBox="0 0 1202 583" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="595px" height="572px" viewBox="0 0 595 572" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
     <title>header-background</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <radialGradient cx="49.5478511%" cy="41.6529959%" fx="49.5478511%" fy="41.6529959%" r="100%" gradientTransform="translate(0.495479,0.416530),scale(0.484167,1.000000),rotate(90.000000),translate(-0.495479,-0.416530)" id="radialGradient-1">
+        <radialGradient cx="49.5478511%" cy="41.6529959%" fx="49.5478511%" fy="41.6529959%" r="100%" gradientTransform="translate(0.495479,0.416530),scale(0.957983,1.000000),rotate(90.000000),translate(-0.495479,-0.416530)" id="radialGradient-1">
             <stop stop-color="#5054F0" offset="0%"></stop>
             <stop stop-color="#490EA1" offset="100%"></stop>
         </radialGradient>
@@ -20,12 +20,14 @@
         </linearGradient>
     </defs>
     <g id="Header-(Page1)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="header-background" transform="translate(1.000000, 0.000000)">
-            <path d="M0,0 L1200,0 L1200,581 C859.768229,581 611.03125,581 453.789062,581 C296.546875,581 145.283854,581 0,581 L0,0 Z" id="BACKGROUND" fill="url(#radialGradient-1)"></path>
-            <path d="" id="Path-4" stroke="#979797"></path>
-            <path d="M0,439 C225.140625,476.257058 412.628906,496.476097 562.464844,499.657118 C787.21875,504.42865 878.482591,527.324348 1008.97656,522.932024 C1095.97254,520.003808 1159.64702,506.835163 1200,483.426089 L1200,581 L0,581 L0,439 Z" id="Path-2" fill="url(#linearGradient-2)"></path>
-            <path d="M0,581 L1200,581 L1200,510.413906 C1108.94156,533.942604 1030.57875,545.706953 964.911561,545.706953 C866.410775,545.706953 671.597141,517.241717 484.924844,510.413906 C360.476646,505.862031 198.835032,505.862031 0,510.413906 L0,581 Z" id="LAYER_2" fill="url(#linearGradient-3)"></path>
-            <path d="M0,576.807454 C185.488729,546.935818 335.825264,532 451.009604,532 C623.786115,532 840.005909,568.307497 936.718649,568.307497 C1001.19381,568.307497 1088.95426,556.204998 1200,532 L1200,582 L0,582 L0,576.807454 Z" id="LAYER_1" stroke="#FFFFFF" fill="#FFFFFF"></path>
+        <g id="A4">
+            <g id="header-background">
+                <path d="M0,0 L595,0 L595,570 C426.301747,570 302.969661,570 225.003743,570 C147.037826,570 72.0365777,570 0,570 L0,0 Z" id="BACKGROUND" fill="url(#radialGradient-1)"></path>
+                <path d="" id="Path-4" stroke="#979797"></path>
+                <path d="M0,469 C122.636632,484.368653 217.604731,494.774252 284.904297,500.216797 C322.242188,503.236328 341.748377,508.543395 361.5,511.591797 C409.003598,518.92335 426.263742,524.744894 471.964844,521.691406 C515.100351,518.809337 556.11207,502.900134 595,473.963797 L595,570 L0,570 L0,469 Z" id="Path-2" fill="url(#linearGradient-2)"></path>
+                <path d="M0,570 L595,570 L595,500.367755 C543.612065,523.578503 501.638107,535.183877 469.078125,535.183877 C420.238152,535.183877 358.564206,515.083193 266.005859,508.347649 C204.300295,503.857286 115.631675,501.197321 0,500.367755 L0,570 Z" id="LAYER_2" fill="url(#linearGradient-3)"></path>
+                <path d="M0,527.221363 C108.675525,519.5816 191.569405,515.761719 248.681641,515.761719 C334.349994,515.761719 418.132538,543.380859 466.085937,543.380859 C498.054871,543.380859 541.026225,536.215178 595,521.883815 L595,571 L0,571 L0,527.221363 Z" id="LAYER_1" stroke="#FFFFFF" fill="#FFFFFF"></path>
+            </g>
         </g>
     </g>
 </svg>

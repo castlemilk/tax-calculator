@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import Transition from 'react-transition-group/Transition';
 import headerBackground from '../../assets/images/header-background.svg';
 import Chart from '../Chart/index';
+import './header.css';
 
 const Background = styled.div`
   .hero-background {
@@ -44,6 +45,7 @@ const Background = styled.div`
 const duration = 300;
 
 const defaultStyle = {
+  backgroundImage: `url(${headerBackground})`,
   transition: `opacity ${duration}ms ease-in-out`,
   opacity: 0,
 };
@@ -70,7 +72,7 @@ class Header extends React.Component {
   render() {
     const { inside } = this.state;
     return (
-      <Background>
+      <div>
         <Transition
           timeout={duration}
           in={inside}
@@ -100,7 +102,7 @@ class Header extends React.Component {
             )
           }
         </Transition>
-      </Background>
+      </div>
     );
   }
 }

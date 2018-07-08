@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import Transition from 'react-transition-group/Transition';
 
 const GraphWrapper = styled.div`
-    width: 700px;
+    width: 100%;
     height: 800px;
     background-color: white;
     border-radius: 20px;
